@@ -541,7 +541,7 @@ please preview your site before committing, and make sure to run
   </div>
 </div> {% comment %} End of 'editor' section. {% endcomment %}
 
-<div id="python"> {% comment %} Start of 'Python' section. Remove the third paragraph if
+<!-- <div id="python"> {% comment %} Start of 'Python' section. Remove the third paragraph if
   the workshop will teach Python using something other than
   the Jupyter notebook.
   Details at https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#browser-compatibility {% endcomment %}
@@ -637,9 +637,9 @@ please preview your site before committing, and make sure to run
     which has instructions on how to test that everything was installed correctly.
   </p>
   {% endcomment %}
-</div> {% comment %} End of 'Python' section. {% endcomment %}
+</div> {% comment %} End of 'Python' section. {% endcomment %} -->
 
-<div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
+<!-- <div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
   <h3>R</h3>
 
   <p>
@@ -826,7 +826,7 @@ please preview your site before committing, and make sure to run
       </article>
     </div>
   </div>
-</div> {% comment %} End of 'OpenRefine' section. {% endcomment %}
+</div> {% comment %} End of 'OpenRefine' section. {% endcomment %} -->
 
 {% comment %}
 <div id="vm">
